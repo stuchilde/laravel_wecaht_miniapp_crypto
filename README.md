@@ -12,7 +12,7 @@
 注册服务提供者到 Laravel中 具体位置：`/config/app.php` 中的 `providers` 数组:
 
 ```php
-Iwanli\Wxxcx\WxxcxServiceProvider::class,
+Stuchilde\Wxxcx\WxxcxServiceProvider::class,
 ```
 发布配置文件: 
 
