@@ -28,7 +28,7 @@ php artisan vendor:publish --tag=wxxcx
 ```php
 ...
 
-use Iwanli\Wxxcx\Wxxcx;
+use Stuchilde\Wxxcx\Wxxcx;
 
 class WxxcxController extends Controller
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Iwanli\Wxxcx;
+namespace Stuchilde\Wxxcx;
 
 /**
  * error code 说明.

@@ -1,5 +1,5 @@
 <?php
-namespace Iwanli\Wxxcx;
+namespace Stuchhilde\Wxxcx;
 
 
 class PKCS7Encoder
